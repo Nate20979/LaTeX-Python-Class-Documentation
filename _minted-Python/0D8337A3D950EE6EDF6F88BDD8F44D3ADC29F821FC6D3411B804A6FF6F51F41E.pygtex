@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{myArr} \PYG{o}{=} \PYG{p}{[}\PYG{l+m+mi}{5}\PYG{p}{,} \PYG{l+m+mi}{12}\PYG{p}{,} \PYG{l+m+mi}{242}\PYG{p}{,} \PYG{l+m+mi}{1}\PYG{p}{,} \PYG{l+m+mi}{6}\PYG{p}{]}
+
+    \PYG{k}{def} \PYG{n+nf}{ArrayList}\PYG{p}{():}
+        \PYG{k}{for} \PYG{n}{value} \PYG{o+ow}{in} \PYG{n}{myArr}\PYG{p}{:}
+            \PYG{k}{print}\PYG{p}{(}\PYG{n}{value}\PYG{p}{)}
+
+    \PYG{n}{ArrayList}\PYG{p}{()}
+\end{Verbatim}
