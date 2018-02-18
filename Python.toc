@@ -11,6 +11,10 @@
 \contentsline {subsection}{\numberline {5.1}Functions Challenge}{4}{subsection.5.1}
 \contentsline {section}{\numberline {6}Activities}{4}{section.6}
 \contentsline {subsection}{\numberline {6.1}Quadratic Equation Solver}{4}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Number Guessing Game}{4}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Random Word Picker}{4}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Hello, World! in PyGame}{4}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Snake in PyGame}{4}{subsection.6.5}
 \contentsline {section}{\numberline {7}Challenge Solutions}{4}{section.7}
 \contentsline {subsection}{\numberline {7.1}Printing Challenge}{4}{subsection.7.1}
 \contentsline {subsection}{\numberline {7.2}Functions Challenge}{4}{subsection.7.2}

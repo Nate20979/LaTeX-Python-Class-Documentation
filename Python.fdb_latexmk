@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1518994226 "/Users/nathan/Desktop/Programming/LaTex/Python.tex" "Python.pdf" "Python" 1518994228
-  "/Users/nathan/Desktop/Programming/LaTex/Python.tex" 1518994226 6339 527214fa37a05d04f4bc80ae87b3929c ""
-  "/dev/null" 1518994074 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1518994770 "/Users/nathan/Desktop/Programming/LaTex/Python.tex" "Python.pdf" "Python" 1518994772
+  "/Users/nathan/Desktop/Programming/LaTex/Python.tex" 1518994769 6559 a99371c30d77e731083dad90a468234c ""
+  "/dev/null" 1518994633 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1480098701 1344 8a0be4fe4d376203000810ad4dc81558 ""
@@ -130,10 +130,10 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "Python.aex" 0 -1 0 ""
-  "Python.aux" 1518994228 3846 b38e9020acf7e9673013dba639657023 ""
-  "Python.out" 1518994228 902 59f3d22d2c96b9c0f23498a8ff2409d2 ""
+  "Python.aux" 1518994772 4534 447ffc52a69974b7111714c4d8f9bdd9 ""
+  "Python.out" 1518994772 1178 87e552cacdcabea787301ff0dd709fed ""
   "Python.pyg" 0 -1 0 ""
-  "Python.toc" 1518994228 1179 b6d1aa6fe22d892a9b977a1fea9fbfc9 ""
+  "Python.toc" 1518994772 1515 2fdfa828b68dbf438a2dec7a1f25d54c ""
   "Python.w18" 0 -1 0 ""
   "PythonLogo.png" 1518900758 161092 ca2ceddcd9c28a22c449286f3fe66751 ""
   "_minted-Python/0D8337A3D950EE6EDF6F88BDD8F44D3ADC29F821FC6D3411B804A6FF6F51F41E.pygtex" 1518993075 450 af97e4fca640c89e7e7ecaf7b8d7c613 ""
@@ -146,9 +146,9 @@
   "_minted-Python/default-pyg-prefix.pygstyle" 1518921467 7889 fd24cef8e07e2598ee68a3c35efebdab ""
   "_minted-Python/default.pygstyle" 1518921468 9275 81790a1d53a1d5ba80348a06710c1e05 ""
   (generated)
-  "Python.log"
-  "Python.pyg"
-  "Python.pdf"
   "Python.aux"
-  "Python.out"
   "Python.toc"
+  "Python.log"
+  "Python.pdf"
+  "Python.pyg"
+  "Python.out"
