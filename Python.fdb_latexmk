@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1518996007 "/Users/nathan/Desktop/Programming/LaTex/Python.tex" "Python.pdf" "Python" 1518996009
-  "/Users/nathan/Desktop/Programming/LaTex/Python.tex" 1518996006 7474 ea08e0a3c773fd8b0bb96abccf4b39a6 ""
-  "/dev/null" 1518995952 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1518996370 "/Users/nathan/Desktop/Programming/LaTex/Python.tex" "Python.pdf" "Python" 1518996371
+  "/Users/nathan/Desktop/Programming/LaTex/Python.tex" 1518996368 7496 e74a8bfb00119f5769a023a80c1fb666 ""
+  "/dev/null" 1518996358 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1480098701 1344 8a0be4fe4d376203000810ad4dc81558 ""
@@ -132,10 +132,10 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "Python.aex" 0 -1 0 ""
-  "Python.aux" 1518996009 4684 1cd588ed9c3e8e2b208104b69e92d173 ""
-  "Python.out" 1518996009 1178 87e552cacdcabea787301ff0dd709fed ""
+  "Python.aux" 1518996371 4684 530862787849ace12854173eac8d21db ""
+  "Python.out" 1518996371 1178 87e552cacdcabea787301ff0dd709fed ""
   "Python.pyg" 0 -1 0 ""
-  "Python.toc" 1518996009 1515 94b32cc4243426163b0f0388591a9c1f ""
+  "Python.toc" 1518996371 1515 0b3e4b6c7acdfbc6b6d292f0b709b564 ""
   "Python.w18" 0 -1 0 ""
   "PythonLogo.png" 1518900758 161092 ca2ceddcd9c28a22c449286f3fe66751 ""
   "_minted-Python/0D8337A3D950EE6EDF6F88BDD8F44D3ADC29F821FC6D3411B804A6FF6F51F41E.pygtex" 1518995262 450 af97e4fca640c89e7e7ecaf7b8d7c613 ""
@@ -151,8 +151,8 @@
   "_minted-Python/default.pygstyle" 1518921468 9275 81790a1d53a1d5ba80348a06710c1e05 ""
   (generated)
   "Python.out"
-  "Python.pyg"
-  "Python.aux"
   "Python.toc"
+  "Python.pyg"
   "Python.log"
+  "Python.aux"
   "Python.pdf"
