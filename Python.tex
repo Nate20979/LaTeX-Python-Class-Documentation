@@ -94,7 +94,22 @@
     
     \subsection{Dictionaries} \label{dictionaries}
 
+    Dictionaries are very similar to arrays. In a dictionary, the data that is passed when it is first created is similar to that of a real dictionary. This means that when you create a dictionary in Python, you supply a value and a definition.
 
+    \begin{minted}{python}
+    myDict = {1: "This", 2: "is", 3: "a", 4: "dictionary"}
+    \end{minted}
+
+    The first value in a dictionary is the value that you want to reference when looking at dictionary. The next value, separated by a colon, is the definition of the dictionary value that you referenced. This is especially useful when you want to keep different values in the same place, somewhat like an actual dictionary. \\
+
+    It is very easy to retrieve the definition of a value in a dictionary. 
+
+    \begin{minted}{python}
+    print(myDict[2])
+    
+    # This will return the definition stored in the 
+    # dictionary under the name "2".
+    \end{minted}
 
     \subsection{Printing Challenge} \label{hellochallenge}
     
