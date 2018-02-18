@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1518990508 "/Users/nathan/Desktop/Programming/LaTex/Python.tex" "Python.pdf" "Python" 1518990509
-  "/Users/nathan/Desktop/Programming/LaTex/Python.tex" 1518990508 4585 d31bf6e81b040fb8439ca1bd685aae28 ""
-  "/dev/null" 1518990491 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1518992014 "/Users/nathan/Desktop/Programming/LaTex/Python.tex" "Python.pdf" "Python" 1518992016
+  "/Users/nathan/Desktop/Programming/LaTex/Python.tex" 1518992014 5057 1a6f222ee72384bc72d855080a0aa42e ""
+  "/dev/null" 1518992002 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1480098701 1344 8a0be4fe4d376203000810ad4dc81558 ""
@@ -130,11 +130,11 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "Python.aex" 0 -1 0 ""
-  "Python.aux" 1518990509 3175 8c785cf4cf629a519f91887e2d423788 ""
-  "Python.out" 1518990509 740 e80de0c32d007731cd55b43215969295 ""
+  "Python.aux" 1518992016 3175 2c7e03ee856e7733bd29ae6661fb4eac ""
+  "Python.out" 1518992016 740 e80de0c32d007731cd55b43215969295 ""
   "Python.pyg" 0 -1 0 ""
-  "Python.tex" 1518990508 4585 d31bf6e81b040fb8439ca1bd685aae28 ""
-  "Python.toc" 1518990509 964 997fc8a70a11a2518538f89c714f19e5 ""
+  "Python.tex" 1518992014 5057 1a6f222ee72384bc72d855080a0aa42e ""
+  "Python.toc" 1518992016 964 997fc8a70a11a2518538f89c714f19e5 ""
   "Python.w18" 0 -1 0 ""
   "PythonLogo.png" 1518900758 161092 ca2ceddcd9c28a22c449286f3fe66751 ""
   "_minted-Python/267CA7BA40C917B52364C2A1D672948FDC29F821FC6D3411B804A6FF6F51F41E.pygtex" 1518990157 533 3107b9e28a310fbf84648afa13487465 ""
@@ -145,8 +145,8 @@
   "_minted-Python/default.pygstyle" 1518921468 9275 81790a1d53a1d5ba80348a06710c1e05 ""
   (generated)
   "Python.aux"
-  "Python.toc"
-  "Python.pyg"
   "Python.log"
-  "Python.out"
   "Python.pdf"
+  "Python.out"
+  "Python.pyg"
+  "Python.toc"
