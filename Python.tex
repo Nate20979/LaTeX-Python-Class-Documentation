@@ -1,0 +1,117 @@
+\documentclass[12pt, letterpaper]{article}
+    \usepackage[utf8]{inputenc}
+    \usepackage{pst-plot}
+    \usepackage{graphicx}
+    \usepackage{geometry}
+    \usepackage{imakeidx}
+    \usepackage{listings}
+    \geometry{letterpaper, top=1in, bottom=1in, right=1.25in, left=1.25in}
+\title{\Huge{\centering{\includegraphics[scale=0.025]{PythonLogo.png} \\ \textbf{Python Programming}}}}
+    \author{
+        Nathan Stern \\
+        \small{(nstern@wearelcc.ca)}
+        \and
+        Alex Lai \\
+        \small{(alai@wearelcc.ca)}
+    }
+    \pagenumbering{arabic}
+    \date{March 2018}
+    \usepackage{minted}
+    \usepackage{color}   %May be necessary if you want to color links
+    \usepackage{hyperref}
+    \usepackage{indentfirst}
+    \hypersetup{
+        colorlinks=true, %set true if you want colored links
+        linktoc=all,     %set to all if you want both sections and subsections linked
+        linkcolor=black,  %choose some color if you want links to stand out
+    }
+\begin{document}
+    \maketitle
+    \tableofcontents \label{contents}
+    \newpage
+    \section{Introduction} \label{introduction}
+    
+    This document is a quick introduction to programming in Python. This guide will cover everything that you will need to know in order to start programming in Python. Throughout the document, there will be some challenges to test the knowledge that you have gained up until that point. These challenges are designed to really test what you have learned, as well as testing your creative thinking and problem solving. \\
+
+    This document references many different sections throughout it. Whenever you see a reference, you can click on the section number that is provided to take you to the referenced section.
+
+    \section{Hello, World!} \label{hello}
+
+    This is the most basic program that any programmer will create when they first start learning a new language. It is usually the shortest program that they will ever make.
+    
+    \begin{minted}{Python}
+    print ("Hello, World")
+    \end{minted}
+
+    In Python, the print function is very simple to use. You simpy have to type print() with the string that you want to print inside of the parenthesis with quotes around it. You can also use the print function to print the value of a variable. To do this, all you have to do is type print(\tiny{\textbf{VARIABLE}}\normalsize{)}.
+
+
+    \section{Variables} \label{variables}
+
+    Variables are a way of storing values in Python. There are many different kinds of variables that you can use in Python. The most common of these variable types are \textbf{Integers} and \textbf{Strings}. \\
+    
+    Variables are defined very simply, and you do not have to specify the type of the variable when it is first created. The Python interpreter will automatically determine the type of the variable for you.
+
+    \begin{minted}{python}
+    myInt = 5
+    myString = "Hello"
+    myArray = [1, 2, 4, 5]
+    myDict = {5: "What's Up?", 8:"Hello"}
+    \end{minted}
+
+    In that example, there were different kinds of variables created. In future sections of this document, we will explore each of these different variables and how to use them.
+
+    \subsection{Integers} \label{integers}
+
+    
+
+    \subsection{Strings} \label{strings}
+
+    \subsection{Arrays} \label{arrays}
+    
+    \subsection{Dictionaries} \label{dictionaries}
+
+    \subsection{Printing Challenge} \label{hellochallenge}
+    
+    Your first challenge is to print anything you want into the console using a variable. If you can't remember how to do that, you can reference section \ref{hello} for help.
+
+    \section{Functions} \label{functions}
+
+    \subsection{Functions Challenge} \label{functionschallenge}
+
+    Your challenge is to create a function that lists the values of an array. The answer can be found in section \ref{functionsol} of this document.
+
+    
+    \section{Challenge Solutions} \label{solutions}
+
+    \subsection{Printing Challenge} \label{hellosol}
+    The original challenge activity can be found in section \ref{hellochallenge}. \\*\\*
+    \underline{Solution:}
+
+    \begin{minted}{python}
+    
+    myVar = "This is an example of a string stored in a variable."
+
+    print(myVar)
+
+    \end{minted}
+
+    \subsection{Functions Challenge} \label{functionsol}
+
+    The original challenge activity can be found in section \ref{functionschallenge}. \\* \\*
+    \underline{Solution:}
+
+    \begin{minted}{python}
+
+    myArr = [5, 12, 242, 1, 6]
+
+    def ArrayList():
+        for value in enumerate(myArr):
+            print(value)
+    
+    ArrayList()
+    
+    \end{minted}
+
+
+\end{document}

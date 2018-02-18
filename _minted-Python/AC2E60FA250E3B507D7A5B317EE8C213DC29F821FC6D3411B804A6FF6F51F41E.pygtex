@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{myVar} \PYG{o}{=} \PYG{l+s+s2}{\PYGZdq{}This is an example of a string stored in a variable.\PYGZdq{}}
+
+    \PYG{k}{print}\PYG{p}{(}\PYG{n}{myVar}\PYG{p}{)}
+\end{Verbatim}
