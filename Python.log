@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 FEB 2018 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 FEB 2018 17:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1303,29 +1303,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 \openout3 = `Python.pyg'.
 
 
-(./_minted-Python/AC2E60FA250E3B507D7A5B317EE8C213DC29F821FC6D3411B804A6FF6F51F
+(./_minted-Python/4230E915C2B70304F3651F1B2BE02880DC29F821FC6D3411B804A6FF6F51F
 41E.pygtex)
+\openout3 = `Python.pyg'.
+
+
+(./_minted-Python/AC2E60FA250E3B507D7A5B317EE8C213DC29F821FC6D3411B804A6FF6F51F
+41E.pygtex) [3]
 \openout3 = `Python.pyg'.
 
 
 (./_minted-Python/C642464894B69383A39E03D79A1901A0DC29F821FC6D3411B804A6FF6F51F
 41E.pygtex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
  (./Python.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `Python.out' has not changed.
 (rerunfilecheck)             Checksum: E80DE0C32D007731CD55B43215969295;740.
 runsystem(rm Python.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 19700 strings out of 492995
- 336710 string characters out of 6132704
- 527464 words of memory out of 5000000
- 22928 multiletter control sequences out of 15000+600000
+ 19705 strings out of 492995
+ 337039 string characters out of 6132704
+ 527537 words of memory out of 5000000
+ 22929 multiletter control sequences out of 15000+600000
  10195 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,51p,929b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1334,10 +1339,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Python.pdf (3 pages, 184125 bytes).
+Output written on Python.pdf (4 pages, 185401 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
